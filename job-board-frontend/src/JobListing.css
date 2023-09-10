@@ -1,0 +1,16 @@
+/* JobListing.css */
+.job-listing {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+  }
+
+  .job-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+  .job-description {
+    margin-top: 8px;
+  }
